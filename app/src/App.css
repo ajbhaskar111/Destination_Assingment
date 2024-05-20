@@ -1,0 +1,19 @@
+.label{
+  font-size: 15px;
+  font-weight: 500;
+  text-transform: uppercase;
+  margin-bottom: 10px;
+}
+
+.bg-gray{
+  background-color: rgb(231, 231, 231);
+  
+}
+
+.mt-3{
+  margin-top: 40px !important;
+}
+.img_box{
+  height: 250px;
+  display: flex;
+}
